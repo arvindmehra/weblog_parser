@@ -1,6 +1,6 @@
 # Weblog Parser
 
-## Contributing
+## About
 Weblog parser a Ruby program that parses a log file and returns the result of total and unique visits for every path logged in the log file.
 
 
